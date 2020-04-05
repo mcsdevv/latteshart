@@ -1,5 +1,4 @@
 import Head from "next/head";
-import { HOME_OG_IMAGE_URL } from "../lib/constants";
 
 export default function Meta() {
   return (
@@ -36,7 +35,10 @@ export default function Meta() {
         name="description"
         content="A whole lot of latte's with less than ideal outcomes on top."
       />
-      <meta property="og:image" content="A whole lot of latte's with less than ideal outcomes on top." />
+      <meta
+        property="og:image"
+        content="A whole lot of latte's with less than ideal outcomes on top."
+      />
     </Head>
   );
 }
