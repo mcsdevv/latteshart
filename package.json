@@ -1,6 +1,7 @@
 {
-  "name": "cms-datocms",
+  "name": "latteshart",
   "version": "1.0.0",
+  "license": "MIT",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -11,9 +12,9 @@
     "date-fns": "2.10.0",
     "isomorphic-unfetch": "3.0.0",
     "next": "latest",
-    "react": "^16.13.0",
+    "react": "^16.13.1",
     "react-datocms": "1.1.0",
-    "react-dom": "^16.13.0",
+    "react-dom": "^16.13.1",
     "remark": "11.0.2",
     "remark-html": "10.0.0"
   },
