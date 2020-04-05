@@ -5,7 +5,7 @@ export default function Intro() {
         Latteshart.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A whole lot of latte's with less than ideal outcomes on top.
+        For the budding baristas, learn the art of talking shit about coffee.
       </h4>
     </section>
   );

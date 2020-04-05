@@ -33,11 +33,11 @@ export default function Meta() {
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
       <meta
         name="description"
-        content="A whole lot of latte's with less than ideal outcomes on top."
+        content="For the budding baristas, learn the art of talking shit about coffee."
       />
       <meta
         property="og:image"
-        content="A whole lot of latte's with less than ideal outcomes on top."
+        content="For the budding baristas, learn the art of talking shit about coffee."
       />
     </Head>
   );
