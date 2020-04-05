@@ -9,7 +9,8 @@ export default function Footer() {
             Latteshart.
           </h3>
           <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            A whole lot of latte's with less than ideal outcomes on top.
+            For the budding baristas, learn the art of talking shit about
+            coffee.
           </div>
         </div>
       </Container>
